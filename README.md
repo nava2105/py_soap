@@ -51,7 +51,7 @@ pip install requirements.txt -r
 Run main.py file
 * By using python command
 ```
-python mai[.dockerignore](../py_restapi/.dockerignore)n.py
+python main.py
 ```
 * If you are using Python 3 and python points to Python 2 on your system, use python3 instead:
 ```
